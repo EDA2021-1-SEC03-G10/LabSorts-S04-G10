@@ -1,5 +1,5 @@
 Lindsay Vanessa Pinto Morato código: 202023138 l.pintom@uniandes.edu.co
-2.	Maicol Yojan Antonio Rincón Código: 202027329 2.	m.antonio@uniandes.edu.co
+Maicol Yojan Antonio Rincón Código: 202027329 2.	m.antonio@uniandes.edu.co
 
 #ISIS1225 - Estructura de un proyecto
 
